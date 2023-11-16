@@ -57,7 +57,7 @@
     }
 
     to {
-        transform: translateX(-1083px);
+        transform: translateX(-403px); /*-1083px como original*/
 
     }
 }
